@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "D:\\Download\\Arduino\\Arduino\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "D:\\Download\\Arduino\\Arduino\\hardware",
+  "otherLibrariesFolders": "D:\\Download\\Arduino\\Sketchbook location\\libraries",
+  "runtime.ide.version": "10610",
+  "sketchLocation": "D:\\Download\\Arduino\\FILE\\Test2\\Test2\\Test2.ino",
+  "toolsFolders": "D:\\Download\\Arduino\\Arduino\\tools-builder,D:\\Download\\Arduino\\Arduino\\hardware\\tools\\avr"
+}
